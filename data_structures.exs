@@ -1,5 +1,4 @@
 defmodule Data_structures do
-
   def map do
     capitals = %{
       "London" => "United Kingdom",
